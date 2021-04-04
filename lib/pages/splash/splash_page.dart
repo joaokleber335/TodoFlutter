@@ -32,7 +32,7 @@ class _SplashPageState extends State<SplashPage> {
               builder: (_, __, ___) {
                 if (controller.inicializado.value) {
                   _redirecionaParaHome();
-                  return Text('Firebase Inicializado');
+                  return Text('');
                 } else {
                   return CircularProgressIndicator();
                 }
