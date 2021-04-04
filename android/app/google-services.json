@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598448776419",
+    "project_id": "todo-utilizando-flutter-49bda",
+    "storage_bucket": "todo-utilizando-flutter-49bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598448776419:android:a00a53ba7d201bb199d1d6",
+        "android_client_info": {
+          "package_name": "br.edu.unidep.todocomputacomovel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598448776419-srqm35a9v86q9arbcsg13l7ie4852prf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAy265oNZhthkZuo3NVSxc9lnqVVkJMDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598448776419-srqm35a9v86q9arbcsg13l7ie4852prf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
