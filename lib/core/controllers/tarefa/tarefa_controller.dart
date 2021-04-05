@@ -25,6 +25,5 @@ class TarefaController {
 
   listarTarefas() async {
     tarefas.value = await repository.listar();
-    tarefas.notifyListeners();
   }
 }

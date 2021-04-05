@@ -43,7 +43,7 @@ class _CadastroPageState extends State<CadastroPage> {
                       widget.tarefa != null ? widget.tarefa!.titulo : '',
                   labelText: 'Título',
                   hintText: 'Nome da tarefa',
-                  errorMsg: 'Tútulo é obrigatório',
+                  errorMsg: 'Título é obrigatório',
                   onSaved: (value) => _tarefa.titulo = value,
                   formKey: _formKey,
                 ),
